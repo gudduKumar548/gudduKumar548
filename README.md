@@ -22,16 +22,35 @@ Currently focused on learning backend technologies and improving my skills throu
 
 <p align="left"> <a href="https://www.github.com/gudduKumar548" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 <a href="https://www.github.com/gudduKumar548" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gudduKumar548?logo=github&style=for-the-badge&color=facc15&labelColor=1e3a8a" /></a>
+src="https://img.shields.io/github/followers/gudduKumar548?logo=github&style=for-the-badge&color=facc15&labelColor=1e3a8a" />
+</a>
+
 ### Badges
 
-<b>My GitHub Stats</b>
+## Badges
 
-<a href="http://www.github.com/gudduKumar548"><img src="https://github-readme-stats.vercel.app/api?username=gudduKumar548&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="gudduKumar548's GitHub stats" /></a>
+### My GitHub Stats
 
-<a href="http://www.github.com/gudduKumar548"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gudduKumar548&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gudduKumar548&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
+    alt="Guddu Kumar's GitHub stats"
+  />
+</p>
 
-<a href="https://github.com/gudduKumar548" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudduKumar548&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=gudduKumar548&theme=dark&hide_border=true"
+    alt="GitHub streak stats"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudduKumar548&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
+    alt="Top languages"
+  />
+</p>
 
 <b>Top Repositories</b>
 
