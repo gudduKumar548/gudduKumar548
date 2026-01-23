@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I'm a Junior Backend Developer with a strong interest in building reliable and scalable backend systems.
+I'm a Backend Developer with a strong interest in building reliable and scalable backend systems.
 
 Currently focused on learning backend technologies and improving my skills through hands-on practice.
 
