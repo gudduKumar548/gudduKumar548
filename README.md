@@ -11,7 +11,7 @@ I enjoy building scalable backend systems and turning complex problems into simp
 - 🌍 Based in India  
 - ✉️ Contact: **contactgk01@gmail.com**  
 - 🧠 Currently learning AIML with Python  
-- 👥 Looking to collaborate on beginner-friendly backend & open-source projects  
+- 👥 Looking to collaborate on backend, aiml & open-source projects  
 - 💬 Ask me about Backend Development & Problem Solving  
 
 ---
