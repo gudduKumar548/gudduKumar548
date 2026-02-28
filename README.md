@@ -11,7 +11,7 @@ I enjoy building scalable backend systems and turning complex problems into simp
 - 🌍 Based in India  
 - ✉️ Contact: **contactgk01@gmail.com**  
 - 🧠 Currently learning AIML with Python  
-- 👥 Looking to collaborate on backend, aiml & open-source projects  
+- 👥 Looking to collaborate on backend, AIML & open-source projects  
 - 💬 Ask me about Backend Development & Problem Solving  
 
 ---
@@ -38,7 +38,14 @@ I enjoy building scalable backend systems and turning complex problems into simp
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gudduKumar548&theme=dark)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=gudduKumar548&theme=dark&hide_border=true)
+
+<!-- GitHub Profile Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gudduKumar548&show_icons=true&theme=dark&count_private=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gudduKumar548&layout=compact&theme=dark)
 
 ---
 
@@ -49,7 +56,7 @@ I enjoy building scalable backend systems and turning complex problems into simp
 - 🔐 Authentication System  
 
 Explore more in my repositories 👇  
-👉 https://github.com/gudduKumar548
+👉 [GitHub Repositories](https://github.com/gudduKumar548)
 
 ---
 
