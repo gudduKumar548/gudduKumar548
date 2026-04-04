@@ -62,4 +62,5 @@ Explore more in my repositories 👇
 
 <p align="center">
   ⭐ Always Learning | Always Building
+  ⭐ Code | Eat | Sleep | Repeat
 </p>
