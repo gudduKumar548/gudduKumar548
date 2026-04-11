@@ -42,10 +42,10 @@ I enjoy building scalable backend systems and turning complex problems into simp
 ![GitHub Streak](https://streak-stats.demolab.com?user=gudduKumar548&theme=dark&hide_border=true)
 
 <!-- GitHub Profile Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gudduKumar548&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats-brown-kappa.vercel.app/api?username=gudduKumar548&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gudduKumar548&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-brown-kappa.vercel.app/api/top-langs/?username=gudduKumar548&layout=compact&theme=dark&langs_count=8)
 
 ---
 
@@ -61,6 +61,6 @@ Explore more in my repositories 👇
 ---
 
 <p align="center">
-  ⭐ Always Learning | Always Building
+  ⭐ Always Learning | Always Building  
   ⭐ Code | Eat | Sleep | Repeat
 </p>
