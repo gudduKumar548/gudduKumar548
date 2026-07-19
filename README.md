@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Guddu%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Guddu%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://portfolio-xi-eight-30.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -25,7 +25,7 @@
 I'm a **Backend Developer/Software developer** from **India**, focused on designing clean, scalable server-side systems and solving problems with efficient, maintainable code.
 
 - 🌍 &nbsp;Based in India
-- 🧠 &nbsp;Currently looking for an opportunity in software development, backend development or Intership**
+- 🧠 &nbsp;Currently looking for an opportunity in software development, backend development or Internship
 - 👥 &nbsp;Open to collaborating on **backend, AI/ML & open-source** projects
 - 💬 &nbsp;Ask me about **Backend Development** & **Problem Solving**
 - ✉️ &nbsp;Reach me at **contactgk01@gmail.com**
@@ -67,10 +67,9 @@ I'm a **Backend Developer/Software developer** from **India**, focused on design
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gudduKumar548&theme=dark&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="49%"/>
-<img src="https://github-readme-stats-brown-kappa.vercel.app/api/top-langs/?username=gudduKumar548&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C9A7&langs_count=8" width="42%"/>
+<img src="https://streak-stats.demolab.com?user=gudduKumar548&theme=dark&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="60%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gudduKumar548&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff" width="92%"/>
 
