@@ -28,7 +28,7 @@ I'm a **Backend Developer/Software developer** from **India**, focused on design
 - 🧠 &nbsp;Currently looking for an opportunity in software development, backend development or Internship
 - 👥 &nbsp;Open to collaborating on **backend, AI/ML & open-source** projects
 - 💬 &nbsp;Ask me about **Backend Development** & **Problem Solving**
-- ✉️ &nbsp;Reach me at **contactgk01@gmail.com**
+- ✉️ &nbsp;Reach me at **guddukumarr091@gmail.com**
 
 </td>
 
@@ -100,7 +100,7 @@ I'm a **Backend Developer/Software developer** from **India**, focused on design
 <a href="https://github.com/gudduKumar548">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="mailto:contactgk01@gmail.com">
+<a href="mailto:guddukumarr091@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
