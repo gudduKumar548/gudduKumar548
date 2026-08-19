@@ -45,15 +45,15 @@ contact:   guddukumarr091@gmail.com
 
 **Languages & Core**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 
 **Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,nextjs,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,tailwind&theme=dark" />
 
 **Databases & Infra**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,nginx,git,github,linux,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,&theme=dark" />
 
 </div>
 
