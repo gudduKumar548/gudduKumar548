@@ -66,7 +66,6 @@ contact:   guddukumarr091@gmail.com
 | Project | What it does | Stack |
 |:---|:---|:---|
 | 🧪 **LabFlow** *(private)* | Multi-tenant LIMS SaaS for pathology labs — orders → samples → results → verification → signed PDF reports. Row-Level Security, 380+ tests | `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` |
-| 🧾 **InvoiceFlow AI** | Full-stack invoicing platform with AI-assisted parsing, email delivery & cloud storage | `Next.js 15` `FastAPI` `PostgreSQL` |
 | 🎙️ **LinguaAI** | Multilingual AI voice assistant with real-time speech, payments & a freemium token system | `LiveKit` `Deepgram` `ElevenLabs` |
 | 🎧 **Spotify Backend API** | Core Spotify functionality — JWT auth, RBAC, playlists & streaming logic | `Node.js` `Express` `MongoDB` |
 | 🔗 **URL Shortener API** | Lightweight, high-performance link shortener with click analytics | `Node.js` `Express` `MongoDB` |
