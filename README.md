@@ -49,7 +49,7 @@ contact:   guddukumarr091@gmail.com
 
 **Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,SpringBoot,tailwind&theme=dark" />
 
 **Databases & Infra**
 
