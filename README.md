@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Guddu%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Building%20scalable%20systems&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://github.com/gudduKumar548">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=580&lines=Backend+Developer+%7C+Python+%26+Java;I+build+multi-tenant+SaaS+backends;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Next.js;Open+to+backend+%26+open-source+collabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=580&lines=Backend+Developer+%7C+Python+%26+Java;I+build+multi-tenant+SaaS+backends;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Next.js;Open+to+backend+roles+%26+open-source+collabs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,16 +25,16 @@
 
 ## 👨‍💻 About Me
 
-Backend developer from **India**, focused on designing clean, scalable server-side systems — multi-tenant architecture, secure auth, and APIs that hold up under real load.
+Backend developer from **India**, focused on designing clean, scalable server-side systems — multi-tenant architecture, secure auth, and APIs that hold up under real load. Currently a final-year B.Tech (ECE) student, actively looking for my first full-time backend role.
 
 ```yaml
-name:      Guddu Kumar
-role:      Backend Developer
-based_in:  Greater Noida, India
-currently building: LabFlow
-learning:  System Design, DSA (Java) & AI/ML
-open_to:   Full-time backend roles & open-source collabs
-contact:   guddukumarr091@gmail.com
+name:        Guddu Kumar
+role:        Backend Developer (Fresher)
+based_in:    Greater Noida, India
+currently:   Building LabFlow-lite — a hand-written LIMS API (no AI-generated code)
+learning:    System Design, DSA (Java), and AI/ML fundamentals
+open_to:     Full-time backend roles & open-source collaboration
+contact:     guddukumarr091@gmail.com
 ```
 
 ---
@@ -49,11 +49,11 @@ contact:   guddukumarr091@gmail.com
 
 **Backend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,SpringBoot,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,tailwind&theme=dark" />
 
 **Databases & Infra**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github&theme=dark" />
 
 </div>
 
@@ -65,10 +65,12 @@ contact:   guddukumarr091@gmail.com
 
 | Project | What it does | Stack |
 |:---|:---|:---|
-| 🧪 **LabFlow** *(private)* | Multi-tenant LIMS SaaS for pathology labs — orders → samples → results → verification → signed PDF reports. Row-Level Security, 380+ tests | `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` |
-| 🎙️ **LinguaAI** | Multilingual AI voice assistant with real-time speech, payments & a freemium token system | `LiveKit` `Deepgram` `ElevenLabs` |
-| 🎧 **Spotify Backend API** | Core Spotify functionality — JWT auth, RBAC, playlists & streaming logic | `Node.js` `Express` `MongoDB` |
+| 🧪 **LabFlow** *(private)* | Multi-tenant LIMS SaaS for pathology labs — orders → samples → results → verification → signed PDF reports, with row-level security and 380+ passing tests | `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` |
+| 🎧 **Spotify Backend API** | Core Spotify-style backend — JWT auth, RBAC, playlists & streaming logic | `Node.js` `Express` `MongoDB` |
 | 🔗 **URL Shortener API** | Lightweight, high-performance link shortener with click analytics | `Node.js` `Express` `MongoDB` |
+| 🔐 **AuthSystem** | Reusable authentication service — JWT-based login, secure password reset flows | `Node.js` `Express` `MongoDB` |
+| 🚗 **Car Rental System** | Console-based booking system modeling cars, users & rentals with OOP design | `Java` |
+| 🎙️ **LinguaAI** *(in progress)* | Multilingual AI voice assistant — real-time speech, freemium token system & payments | `LiveKit` `Deepgram` `ElevenLabs` |
 
 </div>
 
