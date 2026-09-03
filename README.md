@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Guddu%20Kumar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Building%20scalable%20systems&descAlignY=56&descSize=18" width="100%"/>
 
 <a href="https://github.com/gudduKumar548">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=580&lines=Backend+Developer+%7C+Python+%26+Java;I+build+multi-tenant+SaaS+backends;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Next.js;Open+to+backend+roles+%26+open-source+collabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=580&lines=Backend+Developer+%7C+Python+%26+Java+%26+Node.js;I+build+multi-tenant+SaaS+backends;Node.Js+%C2%B7+Express.Js+%C2%B7+PostgreSQL+%C2%B7+Docker;Open+to+backend+roles+%26+open-source+collabs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,8 +31,8 @@ Backend developer from **India**, focused on designing clean, scalable server-si
 name:        Guddu Kumar
 role:        Backend Developer (Fresher)
 based_in:    Greater Noida, India
-currently:   Building LabFlow-lite — a hand-written LIMS API (no AI-generated code)
-learning:    System Design, DSA (Java), and AI/ML fundamentals
+currently:   Building LabFlow
+learning:    System Design, DSA (Java), and AI Engineering
 open_to:     Full-time backend roles & open-source collaboration
 contact:     guddukumarr091@gmail.com
 ```
